@@ -24,3 +24,6 @@ dist/
 
 # python venv
 api/.venv/
+
+# playwright mcp output
+.playwright-mcp/

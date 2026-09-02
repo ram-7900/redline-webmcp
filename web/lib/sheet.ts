@@ -115,10 +115,13 @@ export function pendingChangesInBatch(state: SheetState, batchId: string): Stage
   );
 }
 
-let counter = 0;
+// Separate counters so batch ids stay short and sequential. Agents quote these ids
+// back in discard_staged calls, and a shared counter made them look arbitrary.
+const counters: Record<string, number> = {};
+
 function nextId(prefix: string): string {
-  counter += 1;
-  return `${prefix}_${counter.toString(36)}`;
+  counters[prefix] = (counters[prefix] ?? 0) + 1;
+  return `${prefix}_${counters[prefix]}`;
 }
 
 /**

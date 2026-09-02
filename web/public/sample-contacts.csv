@@ -1,0 +1,61 @@
+name,phone,email,signed_up,company
+JEAN-LUC DIJKSTRA,,,sometime last spring,
+  katherine   jackson  ,206.555.2219,katherine.jackson@EXAMPLE.org,Jan 8 2026,
+  niklaus   turing  ,(415) 555-2970,niklaus.turing@example.NET,2026/07/2,"Acme, Inc."
+SHAFI DIJKSTRA,206 555 2315,shafi.dijkstra@example.NET,2026/03/4,"Initech ""the second"""
+  katherine   goldwasser  ,212 555 2508,katherine.goldwasser@example.NET,7/25/2026,Umbrella
+LESLIE WILSON,212 555 2083,leslie.wilson@EXAMPLE.org,9/16/2026,Umbrella
+linus allen,312.555.2168,linus.allen@EXAMPLE.org,Jan 22 2026,
+LESLIE PICARD,206.555.2508,leslie.picard@Example.COM,2026-02-9,"Acme, Inc."
+  alan   torvalds  ,617 555 2395,alan.torvalds@EXAMPLE.org,1/15/2026,Globex
+FRAN JOHNSON,650.555.2132,,2026-07-28,"Acme, Inc."
+BARBARA WILSON,312 555 2884,barbara.wilson@EXAMPLE.org,2026-07-12,Globex
+edsger hopper,call the office,edsger.hopper@Example.COM,2026-04-1,
+BARBARA BERNERS-LEE,650 555 2624,barbara.berners-lee@EXAMPLE.org,Jan 23 2026,Umbrella
+SHAFI GOSLING,(312) 555-2403,shafi.gosling@Example.COM,sometime last spring,Umbrella
+BARBARA JOHNSON,206 555 2154,barbara.johnson@Example.COM,Jan 20 2026,"Acme, Inc."
+DONALD ALLEN,650.555.2978,donald.allen@EXAMPLE.org,2026-02-4,Umbrella
+O'NEILL MCRAE,415.555.2767,oneill.mcrae@EXAMPLE.org,Jan 17 2026,Globex
+radia jackson,206 555 2305,radia.jackson@Example.COM,5/17/2026,Globex
+  mary   hamilton  ,617 555 2228,,2026/04/26,Umbrella
+  margaret   knuth  ,617.555.2029,margaret.knuth@EXAMPLE.org,5/7/2026,Umbrella
+mary jackson,(212) 555-2104,mary.jackson@EXAMPLE.org,1/16/2026,"Acme, Inc."
+  katherine   gosling  ,(212) 555-2489,katherine.gosling@example.NET,2026-07-15,"Acme, Inc."
+barbara liskov,call the office,barbara.liskov@Example.COM,2026/08/26,
+  fran   mcrae  ,(650) 555-2159,fran.mcrae@example.NET,2026/02/17,Umbrella
+donald knuth,212 555 2782,donald.knuth@EXAMPLE.org,2026-05-18,Globex
+ALAN JACKSON,206 555 2133,alan.jackson@Example.COM,Jan 17 2026,Umbrella
+barbara allen,(212) 555-2176,barbara.allen@example.NET,sometime last spring,
+RADIA GOLDWASSER,206.555.2058,,Jan 25 2026,
+sophie goldwasser,206 555 2620,sophie.goldwasser@Example.COM,2026-05-15,
+MARGARET PERLMAN,212.555.2860,margaret.perlman@Example.COM,7/15/2026,"Acme, Inc."
+margaret wirth,(212) 555-2685,margaret.wirth@example.NET,6/5/2026,Globex
+  sophie   hamilton  ,(415) 555-2407,sophie.hamilton@Example.COM,2026-07-17,"Initech ""the second"""
+NIKLAUS KNUTH,415 555 2346,niklaus.knuth@EXAMPLE.org,Jan 23 2026,Umbrella
+  jean-luc   perlman  ,n/a,jean-luc.perlman@example.NET,2026/02/4,"Acme, Inc."
+GRACE BERNERS-LEE,212.555.2276,grace.berners-lee@example.NET,2026/05/13,
+RADIA LAMPORT,415 555 2818,radia.lamport@Example.COM,7/3/2026,"Acme, Inc."
+grace berners-lee,(206) 555-2876,,8/1/2026,
+  niklaus   berners-lee  ,(212) 555-2044,niklaus.berners-lee@Example.COM,2026/05/2,Globex
+  linus   torvalds  ,312.555.2512,linus.torvalds@EXAMPLE.org,Jan 9 2026,"Acme, Inc."
+  ada   perlman  ,312 555 2108,ada.perlman@example.NET,sometime last spring,Umbrella
+  shafi   gosling  ,650 555 2203,shafi.gosling@example.NET,3/13/2026,"Acme, Inc."
+edsger lovelace,(617) 555-2758,edsger.lovelace@example.NET,7/28/2026,
+margaret torvalds,212.555.2275,margaret.torvalds@EXAMPLE.org,6/18/2026,Globex
+alan torvalds,415.555.2343,alan.torvalds@EXAMPLE.org,2026/09/21,Globex
+radia lovelace,n/a,radia.lovelace@Example.COM,Jan 13 2026,Umbrella
+ADA TORVALDS,(617) 555-2238,,7/25/2026,Umbrella
+  edsger   torvalds  ,617 555 2913,edsger.torvalds@example.NET,2026/07/24,
+radia lamport,(617) 555-2598,radia.lamport@Example.COM,2026/01/2,"Initech ""the second"""
+KATHERINE GOSLING,617 555 2544,katherine.gosling@Example.COM,Jan 9 2026,Umbrella
+  grace   perlman  ,206.555.2067,grace.perlman@EXAMPLE.org,2/28/2026,Globex
+  donald   hamilton  ,312.555.2505,donald.hamilton@example.NET,Jan 25 2026,
+  donald   hopper  ,650.555.2667,donald.hopper@example.NET,2026-03-1,"Acme, Inc."
+  o'neill   berners-lee  ,312 555 2297,oneill.berners-lee@example.NET,sometime last spring,Umbrella
+  sophie   johnson  ,415.555.2958,sophie.johnson@EXAMPLE.org,2026-02-27,"Initech ""the second"""
+james knuth,415.555.2145,,6/5/2026,"Acme, Inc."
+MARY HAMILTON,n/a,mary.hamilton@EXAMPLE.org,Jan 6 2026,Umbrella
+SOPHIE GOSLING,(617) 555-2144,sophie.gosling@EXAMPLE.org,1/11/2026,Umbrella
+  katherine   knuth  ,(415) 555-2923,katherine.knuth@EXAMPLE.org,Jan 28 2026,"Initech ""the second"""
+niklaus berners-lee,617 555 2292,niklaus.berners-lee@Example.COM,2026-04-9,
+JEAN-LUC KNUTH,617 555 2409,jean-luc.knuth@example.NET,Jan 24 2026,"Acme, Inc."
