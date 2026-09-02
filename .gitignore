@@ -21,3 +21,6 @@ dist/
 *.tsbuildinfo
 .vercel
 .DS_Store
+
+# python venv
+api/.venv/
